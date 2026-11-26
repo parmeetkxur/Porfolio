@@ -292,8 +292,6 @@ export const certificates: CertificateItem[] = [
 export const contactLinks = {
   emailAddress: 'parmeetkaur.tech@gmail.com',
   email: 'mailto:parmeetkaur.tech@gmail.com',
-  phoneDisplay: '+91-8968193130',
-  phone: 'tel:+918968193130',
   linkedinDisplay: 'linkedin.com/in/-parmeetkaur',
   linkedin: 'https://linkedin.com/in/-parmeetkaur',
   githubDisplay: 'github.com/parmeetkxur',
